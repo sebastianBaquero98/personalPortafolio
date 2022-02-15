@@ -1,6 +1,6 @@
 ## Web page designed by Sebastian Baquero
 ### Personal Portafolio
-
+[Pagina Web](https://sebastianbaquero98.github.io/personalPortafolio/index.html)<br>
 The personal web page was made using HTML, CSS and BOOTSTRAP. Its divided in 4 sections that are between a nav bar and a footer. The navigation bar has 4 elements (Personal Portafolio, About Me, My Projects, My Hobbies). Each item before mentioned takes you to the section of the page. The footer has three columns that contains overall information.
 
 #### First Section
