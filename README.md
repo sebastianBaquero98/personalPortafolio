@@ -5,7 +5,7 @@
 The personal web page was made using HTML, CSS and BOOTSTRAP. Its divided in 4 sections that are between a nav bar and a footer. The navigation bar has 4 elements (Personal Portafolio, About Me, My Projects, My Hobbies). Each item before mentioned takes you to the section of the page. The footer has three columns that contains overall information.
 
 #### First Section
-The first section is a banner with my name and some features that describe me as well as a card wich has my name, the school where I study and links to my social media pages.
+The first section is a banner with my name and some features that describe me as well as a card wich has my name, the school where I study and links to my social media pages. [ICONS NOT SHOWING] Just shows boxes :(
 #### Second Section
 The next section is the **about me** section which contains a small description about what I believe in and my profesional experience. As well is has some features that describe my in a job environment
 #### Third Section
@@ -35,4 +35,4 @@ Code gives movement to the card in the banner section
 Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com<br>
 License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)<br>
 Copyright 2022 Fonticons, Inc.<br>
-Used to get the facebook, instagram, linkedin and music icons
+Used to get the facebook, instagram, linkedin and music icons [NOT WORKING]
